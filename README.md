@@ -28,6 +28,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Sample Image of the Project
+![alt text] (https://github.com/Abdulwarissherzad/Scheduler-with-React-TS/blob/main/Sample%20Image.jpg)
 
 ### `npm run eject`
 
